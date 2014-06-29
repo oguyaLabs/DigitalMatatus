@@ -1,0 +1,5 @@
+#ide configuration
+.idea/
+
+#log dir
+Logs/
